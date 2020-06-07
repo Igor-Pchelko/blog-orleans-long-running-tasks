@@ -2,6 +2,9 @@
 
 This project demonstrates the approach of managing long running tasks in Orleans cluster.
 
+[Long-running tasks in Orleans dotnet blog post](https://pcholko.com/posts/2020-06-07/orleans-long-running-tasks/)
+
+
 Start application:
 
 ```shell
