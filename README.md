@@ -1,4 +1,4 @@
-# Long running tasks execution
+# Orleans long-running tasks execution
 
 This project demonstrates the approach of managing long running tasks in Orleans cluster.
 
